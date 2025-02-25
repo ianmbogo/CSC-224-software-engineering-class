@@ -1,1 +1,21 @@
 This is just an example of the text file you may add other files to the repo eg HTML,CSS and javascript files
+
+Class this is an assignment on Version Control Management
+Version control systems (VCS) track changes to code, enabling developers to collaborate, manage revisions, and recover previous versions.
+
+GitHub is the most widely used distributed version control system.
+Repositories: Centralized storage for project code.
+Branches: Allow parallel development.
+Commits: Record changes to the codebase.
+
+I expect Everyone to contribute to the Repo.
+We all agreed in class we are coding using HTML, JAVASCRIPT and CSSS to hard code calculator.
+I Expect to see everyone participating in the Coding exercise.
+
+Signed;
+Ian Mbogo
+CSC224 Embu University Lecturer.
+
+
+
+
